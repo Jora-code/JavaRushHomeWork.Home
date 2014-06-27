@@ -19,7 +19,7 @@ public class Solution
         int b = Integer.parseInt(reader.readLine());
         max = a > b ? a : b;
 
-        System.out.println("Max is " + max); 
+        System.out.println("Max is " + max);
     }
 
 }
